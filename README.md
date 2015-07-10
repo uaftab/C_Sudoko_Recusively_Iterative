@@ -1,5 +1,4 @@
-# C Sudoko Recusively Iterative
-
+# C Sudoko Solver that Recusively Iterates
 
 Sudoku Solver
 
